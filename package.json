@@ -1,0 +1,17 @@
+{
+  "name": "net-disk",
+  "version": "1.0.0",
+  "description": "伪百度网盘",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server/server.js"
+  },
+  "dependencies": {
+    "mongoose": "4.10.1",
+    "express": "4.14.0",
+    "body-parser": "1.15.2"
+  },
+  "author": "hyg",
+  "license": "ISC"
+}
